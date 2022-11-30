@@ -1,2 +1,3 @@
 Ini merupakan latihan membuat repo
 - membuat file
+- mengupdate file
