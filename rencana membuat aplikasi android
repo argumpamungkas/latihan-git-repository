@@ -2,7 +2,9 @@ Rencana membuat aplikasi
 
 - Membuat aplikasi CRUD
   * Membuat Note/Todo List menggunakan Database Persistence
-  * Mmebuat Note/Todo List menggunakan Database MySql (PHP CRUD)
+  * Membuat Note/Todo List menggunakan Database MySql (PHP CRUD)
   * Membuat Note/Todo List menggunakan Database Supabase
+- Membuat aplikasi Quran mengambil dari API
 - Membuat aplikasi movie or/and Tv menggunakan API
+- Membuat Aplikasi cek ongkir dari API Raja Ongkir
 - Membuat aplikasi e-commerce
