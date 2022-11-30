@@ -1,4 +1,6 @@
 Rencana membuat aplikasi
 
-- Membuat Note/Todo List menggunakan Database Persistence
-- Mmebuat Note/Todo List menggunakan Database MySql (PHP CRUD)
+- Membuat aplikasi CRUD
+  * Membuat Note/Todo List menggunakan Database Persistence
+  * Mmebuat Note/Todo List menggunakan Database MySql (PHP CRUD)
+- Membuat aplikasi movie or/and Tv menggunakan API
